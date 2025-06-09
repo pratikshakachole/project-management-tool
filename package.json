@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "1.0.0",
+  "license": "MIT",
   "proxy": "http://localhost:5000",
   "main": "index.js",
   "dependencies": {
@@ -24,6 +25,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  }
+}
+
   }
 }
 
